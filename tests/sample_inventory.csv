@@ -1,0 +1,4 @@
+name,gitlab_version,ruby_version,install_type,hosting
+prod,19.4.1,,official,self-managed
+staging,19.4.3,,official,self-managed
+legacy-source,19.4.3,3.4.11,source,self-managed
